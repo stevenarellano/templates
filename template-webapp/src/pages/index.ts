@@ -1,3 +1,3 @@
 export * from "./App";
 export * from "./Home";
-export * from "./AppRoutes";
+export * from "./Misc";
